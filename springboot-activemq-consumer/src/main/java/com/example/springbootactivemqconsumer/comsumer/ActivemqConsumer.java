@@ -9,7 +9,7 @@ import javax.jms.JMSException;
 import javax.jms.TextMessage;
 
 /**
- * @description:
+ * @description:消费者
  * @author: liuqiang
  * @time: 2021/2/7 15:50
  */
